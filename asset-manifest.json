@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/site/static/css/main.ce8f7ee6.css",
+    "main.js": "/github.io/site/static/js/main.dcf5b987.js",
+    "static/js/787.3b62831f.chunk.js": "/github.io/site/static/js/787.3b62831f.chunk.js",
+    "static/media/shyam-bahmani-waterfall.jpg": "/github.io/site/static/media/shyam-bahmani-waterfall.b6d4bf04ee0c8cc8192f.jpg",
+    "static/media/motion-background.jpg": "/github.io/site/static/media/motion-background.162019996b695dde089a.jpg",
+    "static/media/instagram.svg": "/github.io/site/static/media/instagram.318e6df2752736d3c45c33aed816ef9f.svg",
+    "static/media/github.svg": "/github.io/site/static/media/github.4bc72f28e79178cdc9c76db0b22c501e.svg",
+    "index.html": "/github.io/site/index.html",
+    "static/media/linkedin.svg": "/github.io/site/static/media/linkedin.36bd4fb37078da2bbffc9b70a0acc872.svg",
+    "static/media/envelope.svg": "/github.io/site/static/media/envelope.33857507a5ba83c373a8c7d5f0d0c948.svg",
+    "main.ce8f7ee6.css.map": "/github.io/site/static/css/main.ce8f7ee6.css.map",
+    "main.dcf5b987.js.map": "/github.io/site/static/js/main.dcf5b987.js.map",
+    "787.3b62831f.chunk.js.map": "/github.io/site/static/js/787.3b62831f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce8f7ee6.css",
+    "static/js/main.dcf5b987.js"
+  ]
+}
